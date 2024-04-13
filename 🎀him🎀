@@ -1,0 +1,18 @@
+
+Sure! If you're looking for an example of JSON (JavaScript Object Notation), here's a simple example:
+
+json
+Copy code
+{
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York",
+  "email": "john.doe@example.com",
+  "isStudent": false,
+  "hobbies": ["reading", "hiking", "coding"],
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "zipcode": "12345"
+  }
+}
