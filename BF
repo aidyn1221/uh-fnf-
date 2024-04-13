@@ -1,0 +1,32 @@
+{
+  "character": "Boyfriend",
+  "animations": {
+    "idle": {
+      "frames": [
+        "idle_frame_1.png",
+        "idle_frame_2.png",
+        "idle_frame_3.png"
+      ],
+      "frameDuration": 100,
+      "loop": true
+    },
+    "left": {
+      "frames": [
+        "left_frame_1.png",
+        "left_frame_2.png",
+        "left_frame_3.png"
+      ],
+      "frameDuration": 100,
+      "loop": false
+    },
+    "right": {
+      "frames": [
+        "right_frame_1.png",
+        "right_frame_2.png",
+        "right_frame_3.png"
+      ],
+      "frameDuration": 100,
+      "loop": false
+    }
+  }
+}
